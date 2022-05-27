@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fidel Masitsa
-- 👀 I am a software development enthusiast
-- 🌱 I’m currently learning frontend javascript development and css/html
+- 👀 I am a software development 
+- 🌱 I’m currently learning python backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:fidelmasitsa03@gmail.com
 
