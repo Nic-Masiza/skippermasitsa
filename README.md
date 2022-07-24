@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Fidel Masitsa
 - 👀 I am a software development 
-- 🌱 I’m currently learning python backend
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python Django.
+- 💞️ I also make test the efficiency of your code using pytest from.
+- I build fast restful Apis.
 - 📫 How to reach me email:fidelmasitsa03@gmail.com
 
 <!---
